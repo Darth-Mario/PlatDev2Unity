@@ -19,6 +19,6 @@ Platform assembly: C:\Users\anura\Desktop\Platform_Development_2\PlatDev2Unity\C
 Loading C:\Users\anura\Desktop\Platform_Development_2\PlatDev2Unity\CubeDestroy\CubeDestroy_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
 Platform assembly: C:\Users\anura\Desktop\Platform_Development_2\PlatDev2Unity\CubeDestroy\CubeDestroy_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\anura\Desktop\Platform_Development_2\PlatDev2Unity\CubeDestroy\CubeDestroy_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.408 seconds
+- Completed reload, in  0.396 seconds
 <RI> Initializing input.
 <RI> Input initialized.
